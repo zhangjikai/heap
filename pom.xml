@@ -51,13 +51,10 @@
 
 
                 <configuration>
-                    <descriptors>
-                        <descriptor>assembly.xml</descriptor>
-                    </descriptors>
                     <archive>
                         <manifest>
                             <mainClass>
-                                com.zhangjikai.linkgame.main.Main
+                                com.zhangjikai.heap.view.MainWindow
                             </mainClass>
                         </manifest>
                     </archive>
